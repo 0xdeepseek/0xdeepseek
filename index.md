@@ -1,2 +1,1 @@
-# My Airdrop Blog
-Welcome! I post crypto airdrop updates here.
+[Project XYZ Airdrop](posts/post1.md)
